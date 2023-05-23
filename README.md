@@ -2,13 +2,13 @@
 
 ```mermaid
   mindmap
-    root[**Training Program**]
-      (*Role Based*)
+    root[Training Program]
+      (Role Based)
         {{Cloud Developer}}
         {{Cloud Administrator}}
         {{Cloud Engineer}}
         {{Cloud Architect}}
-      (*Technology Based*)
+      (Technology Based)
         Containers
           {{Docker}}
           {{Kubernetes Developer}}
@@ -17,7 +17,7 @@
         DevOps Tools
           Terraform
           Ansible
-      )*Cloud*(
+      )Cloud(
         Public Cloud Platforms
           Microsoct Azure
           Amazon Web Services (AWS)
@@ -25,11 +25,11 @@
         Private Cloud Platforms
           OpenStack
           OpenShift
-      (*DevOps*)
+      (DevOps)
         ))DevOps Foundation((
         ))DevOps Practitioner((
         ))DevOps Expert((
-      (*Certification Assistance*)
+      (Certification Assistance)
         Kubernetes Certifications
         Azure Certifications
 ```
