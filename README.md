@@ -23,7 +23,29 @@
       (Certification Assistance)
         Kubernetes Certifications
         Azure Certifications
-
-
-
 ```
+
+## Training Offerings
+
+### Role Based
+- Cloud Developer
+- Cloud Administrator
+- Cloud Engineer
+- Cloud Architect
+
+### Cloud Platform
+- Public Cloud Platforms
+  - Microsoft Azure
+  - Amazon Web Services (AWS)
+  - Google Cloud
+- Private Cloud Platforms
+  - OpenStack
+  - OpenShift
+### DevOps
+- DevOps Foundation
+- DevOps Practitioner
+- DevOps Expert
+
+### Certification Assistance
+- Kubernetes Certifications
+- Azure Certifications
